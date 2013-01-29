@@ -1,3 +1,4 @@
+# encoding: utf-8
 require 'patches'
 
 ActiveRecord::Base.send :include, Spawn
